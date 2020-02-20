@@ -1,0 +1,49 @@
+body{
+    background-color:#cabfb6 ;
+    width: 600px;
+    padding: 0px 100px;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+
+.main{
+    background-color:white ;
+    padding: 40px 70px 20px;
+}
+
+h2{
+    font-family: 'Proza Libre', sans-serif;   
+}
+
+
+
+.bio{
+    background-color:#c9793b ;
+    margin-bottom: 25px;
+    padding: 10px 30px;
+    font-size: 15px;
+    
+}
+
+.android{
+    background-color:#a4c93b ;
+    font-size: 20px;
+    margin-bottom: 30px;
+    padding: 5px 25px;
+    
+}
+
+.iphone{
+    background-color:#b6bcca ;
+    font-size: 20px;
+    margin-bottom: 30px;
+    padding: 5px 25px;
+}
+a:hover
+{
+   border-color: black;
+}
+
+.last{
+    padding-right: 5px;
+}
